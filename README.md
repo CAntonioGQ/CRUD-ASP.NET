@@ -9,7 +9,8 @@ Conexión a Internet para instalar paquetes NuGet y herramientas adicionales.
 
 Configuración del Proyecto
 1.- Abre el Proyecto en tu Visual Studio 2022
-2.- Abre el proyecto en SQL SERVER o codea estos Queries:
+2.- Coloca entity.HasKey(e => e.Id).HasName("localhost"); en la linea 29 de Mvccrudcontext.cs
+3.- Abre el proyecto en SQL SERVER o codea estos Queries:
 
 CREATE DATABASE MVCCRUD
 USE MVCCRUD
@@ -25,7 +26,7 @@ Clase varchar(50)
 
 SELECT * FROM Usuarios
 
-3.- Pulsa RUN
+4.- Pulsa RUN
 
 
 Contribuciones
