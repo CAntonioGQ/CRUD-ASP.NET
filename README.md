@@ -6,6 +6,7 @@ Requisitos Previos
 Visual Studio instalado.
 SQL Server instalado.
 Conexión a Internet para instalar paquetes NuGet y herramientas adicionales.
+Instalar Entity Framework (core y SQL)
 
 Configuración del Proyecto
 1.- Abre el Proyecto en tu Visual Studio 2022
