@@ -28,12 +28,8 @@ sql
 Copy code
 SELECT * FROM Usuarios
 Pulsa RUN
-Contribuciones
+
+#Contribuciones
 Si encuentras problemas o tienes sugerencias para mejorar este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción.
 
 ¡Esperamos que este ejemplo te sirva como punto de partida para tu propio desarrollo con ASP.NET MVC, C# y SQL Server!
-
-perl
-Copy code
-
-Este archivo combinado proporciona toda la información necesaria para configurar, ejecutar y contribuir al proyecto en un formato fácil de seguir. Si tienes alguna pregunta adicional o necesitas más detalles, no dudes en preguntar.
